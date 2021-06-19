@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite verbose="1" name="Health Recovery Test suite">
+         
+  <test name="Health Recovery Test suite">
+	 <classes>
+	   <class name="com.src.Tests.Web"/>
+	 </classes>
+   </test>
+   
+</suite>
